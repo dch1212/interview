@@ -48,4 +48,25 @@ WebSocket 教程  http://www.ruanyifeng.com/blog/2017/05/websocket.html
 Koa2 之文件上传下载  https://segmentfault.com/a/1190000014056810  
 Web 性能优化： 使用 React.memo() 提高 React 组件性能  https://segmentfault.com/a/1190000018444604  
 Hooks  https://reactjs.org/docs/hooks-overview.html
+理解React组件  https://www.jianshu.com/p/66e0a7e845b0?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation  
+async 函数的含义和用法  http://www.ruanyifeng.com/blog/2015/05/async.html  
+react component  https://reactjs.org/docs/react-component.html  
+React 全新的 Context API  https://loveky.github.io/2018/03/05/react-new-context-api/  
+《Koa2进阶学习笔记》已完结  https://chenshenhai.github.io/koa2-note/    https://chenshenhai.github.io/koajs-design-note/  
+用Vue2+Koa1开发完整的前后端项目  https://molunerfinn.com/Vue+Koa/#%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2  
+async原理  https://blog.csdn.net/qdmoment/article/details/90780583  
+Context  https://zh-hans.reactjs.org/docs/context.html  
+React高阶组件在业务场景下的应用  https://blog.csdn.net/neoveee/article/details/80639062  
+浅谈几个前端异步解决方案  https://juejin.im/post/5b246cece51d4558b80b1260  
+react中的一些细节知识点  https://www.cnblogs.com/faith3/p/9219448.html  
+教你如何优雅的使用React的context属性  https://blog.csdn.net/liangklfang/article/details/74075122  
+React PureComponent 使用指南  https://juejin.im/entry/5934c9bc570c35005b556e1a  
+es6 javascript的class的静态方法、属性和实例属性  https://blog.csdn.net/qq_30100043/article/details/53542966  
+typescript(四)--ts中类、对象、静态方法、继承  https://blog.csdn.net/jasnet_u/article/details/81144115  
+利用shouldComponentUpdate钩子函数优化react性能以及引入immutable库的必要性  https://www.cnblogs.com/penghuwan/p/6707254.html  
+Koa 框架教程 阮一峰  http://www.ruanyifeng.com/blog/2017/08/koa.html  
+npm scripts 使用指南  http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html  
+webpack文档 https://www.webpackjs.com/guides/getting-started/  
+React.memo  https://zh-hans.reactjs.org/docs/react-api.html#reactmemo  
+
 
