@@ -26,7 +26,7 @@ history与hash路由的区别  https://juejin.im/post/5b31a4f76fb9a00e90018cee
 React Router  https://react-guide.github.io/react-router-cn/docs/Introduction.html  
 同源策略、跨域、jsonp  https://www.jianshu.com/p/30d6c94439a2  
 github面试题总结  https://github.com/haizlin/fe-interview  
-JavaScript 算法与数据结构  https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md
+JavaScript 算法与数据结构  https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md  
 React 中的高阶组件及其应用场景  https://juejin.im/post/5c72b97de51d4545c66f75d5  
 深入理解 React 高阶组件  https://zhuanlan.zhihu.com/p/24776678  
 React 合成事件和原生事件的区别  https://www.jianshu.com/p/8d8f9aa4b033  
@@ -35,7 +35,7 @@ websocket断开重连解决方案  https://blog.csdn.net/Altaba/article/details/
 JavaScript Generators指南  https://juejin.im/post/5d536326e51d4561f40add54?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com  
 实现一个完美符合Promise/A+规范的Promise  https://blog.csdn.net/liwusen/article/details/79863059  
 react资源  http://nav.xiejiahe.com/#/index  
-高级前端进阶博文  https://muyiy.vip/blog/  https://github.com/Advanced-Frontend/Daily-Interview-Question   https://github.com/qq449245884/xiaozhi  https://github.com/lin-xin/blog
+高级前端进阶博文  https://muyiy.vip/blog/  https://github.com/Advanced-Frontend/Daily-Interview-Question   https://github.com/qq449245884/xiaozhi  https://github.com/lin-xin/blog  
 js算法初窥  https://cloud.tencent.com/developer/article/1156679  
 十大经典排序算法总结（JavaScript描述）  https://juejin.im/post/57dcd394a22b9d00610c5ec8#heading-34  
 分析生产环境的 Promise 实现，完整理解 Promise 原理   https://github.com/fi3ework/blog/issues/28  
