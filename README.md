@@ -74,5 +74,5 @@ npm scripts 使用指南  http://www.ruanyifeng.com/blog/2016/10/npm_scripts.htm
 webpack文档 https://www.webpackjs.com/guides/getting-started/  
 React.memo  https://zh-hans.reactjs.org/docs/react-api.html#reactmemo  
 萝卜大队笔记  https://www.yuque.com/mlwezi/ytrklz/nggwqy  
-
+微前端实践 https://www.jianshu.com/p/41ab812df9e7  
 
