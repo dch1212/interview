@@ -5,6 +5,7 @@ https://muyiy.vip/blog/
 https://github.com/Advanced-Frontend/Daily-Interview-Question   
 https://github.com/qq449245884/xiaozhi  
 https://github.com/lin-xin/blog  
+https://github.com/yisainan/web-interview  
 this指向、局部变量、变量提升、宏任务微任务    https://segmentfault.com/a/1190000016615517?utm_source=tag-newest  
 Request Headers 请求头和Response Headers 响应头    https://www.jianshu.com/p/15e1e9aa84c3  
 js垃圾回收机制   https://www.cnblogs.com/sunhuahuaa/p/7655587.html   https://www.jianshu.com/p/b9e41717fdf3  
@@ -76,4 +77,6 @@ React.memo  https://zh-hans.reactjs.org/docs/react-api.html#reactmemo
 萝卜大队笔记  https://www.yuque.com/mlwezi/ytrklz/nggwqy  
 微前端实践 https://www.jianshu.com/p/41ab812df9e7  
 webpack中间件 https://www.jianshu.com/p/1a7653ced053  
+关于webpack的面试题总结  https://zhuanlan.zhihu.com/p/44438844  
+【前端面试】同学，你会手写代码吗  https://juejin.im/post/5c9edb066fb9a05e267026dc
 
