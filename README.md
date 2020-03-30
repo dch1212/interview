@@ -16,7 +16,7 @@ JSBridge的原理及使用  https://blog.csdn.net/yuzhengfei7/article/details/93
 高级前端面试题目大全(一)  https://www.jianshu.com/p/7c6e4d21bf77  
 webpack与browser-sync热更新原理深度讲解  http://louiszhai.github.io/2017/04/19/hmr/  
 js继承实现之Object.create  https://segmentfault.com/a/1190000014592412  
-JavaScript 柯里化  https://juejin.im/post/5af13664f265da0ba266efcf  
+JavaScript 柯里化  https://juejin.im/post/5af13664f265da0ba266efcf  https://www.jianshu.com/p/f02148c64bed  
 30分钟精通React Hooks https://juejin.im/post/5be3ea136fb9a049f9121014  
 事件流动（Event Flow）  https://www.jianshu.com/p/382895a4027d  
 深入理解浏览器的缓存机制  https://www.jianshu.com/p/54cc04190252  
