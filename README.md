@@ -81,5 +81,6 @@ webpack中间件 https://www.jianshu.com/p/1a7653ced053
 【前端面试】同学，你会手写代码吗  https://juejin.im/post/5c9edb066fb9a05e267026dc  
 react diff算法  https://www.jianshu.com/p/3ba0822018cf  
 react ssr  https://juejin.im/post/5def0816f265da33aa6aa7fe  
-从零开始实现一个React  https://github.com/hujiulong/blog/issues/4#
+从零开始实现一个React  https://github.com/hujiulong/blog/issues/4#  
 一篇文章看懂_proto_和prototype的关系及区别  https://www.jianshu.com/p/7d58f8f45557  
+React高阶组件总结  https://www.cnblogs.com/mengff/p/9657232.html
