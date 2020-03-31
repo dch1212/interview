@@ -85,3 +85,4 @@ react ssr  https://juejin.im/post/5def0816f265da33aa6aa7fe
 一篇文章看懂_proto_和prototype的关系及区别  https://www.jianshu.com/p/7d58f8f45557  
 React高阶组件总结  https://www.cnblogs.com/mengff/p/9657232.html  
 React原理(一)：动手实现React.createElement和ReactDOM.render  https://www.jianshu.com/p/147651e61524  
+从输入url到页面加载完成发生了什么？——前端角度  https://www.cnblogs.com/daijinxue/p/6640153.html  
