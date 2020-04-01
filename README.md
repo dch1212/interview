@@ -37,7 +37,7 @@ JavaScript 算法与数据结构  https://github.com/trekhleb/javascript-algorit
 React 中的高阶组件及其应用场景  https://juejin.im/post/5c72b97de51d4545c66f75d5  
 深入理解 React 高阶组件  https://zhuanlan.zhihu.com/p/24776678  
 React 合成事件和原生事件的区别  https://www.jianshu.com/p/8d8f9aa4b033  
-websocket断开重连解决方案  https://blog.csdn.net/Altaba/article/details/78644697  
+websocket断开重连解决方案  https://www.cnblogs.com/jocongmin/p/9236485.html  
 为什么Redux需要reducers是纯函数  https://mingjiezhang.github.io/2017/02/11/%E7%BF%BB%E8%AF%91-%E4%B8%BA%E4%BB%80%E4%B9%88Redux%E9%9C%80%E8%A6%81reducers%E6%98%AF%E7%BA%AF%E5%87%BD%E6%95%B0-md/  
 JavaScript Generators指南  https://juejin.im/post/5d536326e51d4561f40add54?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com  
 实现一个完美符合Promise/A+规范的Promise  https://blog.csdn.net/liwusen/article/details/79863059  
