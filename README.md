@@ -1,4 +1,5 @@
 # interview
+# 当有一天你看到我开始疯狂更新这个文件，就证明我准备换工作了
 
 高级前端进阶博文  
 https://muyiy.vip/blog/  
