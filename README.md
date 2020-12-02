@@ -1,6 +1,5 @@
 # interview
-# 当有一天你看到我开始疯狂更新这个文件，就证明我准备换工作了
-
+# 你面试用到这个页面，能给我点个star我都谢谢你
 高级前端进阶博文  
 https://muyiy.vip/blog/  
 https://github.com/Advanced-Frontend/Daily-Interview-Question   
@@ -100,6 +99,7 @@ k8s: https://blog.csdn.net/mingongge/article/details/100613465
 微信h5授权后的后退死循环： https://www.cnblogs.com/wonyun/p/8984183.html  
 Jenkins ： https://www.cnblogs.com/rslai/p/8135460.html  
 Nginx解决前端跨域： https://www.cnblogs.com/lovesong/p/10269793.html  
+webpack所有东西： https://zhuanlan.zhihu.com/p/99959392  
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
 https://juejin.im/post/5e85ec79e51d4547153d0738  
