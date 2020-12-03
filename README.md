@@ -101,6 +101,7 @@ Jenkins ： https://www.cnblogs.com/rslai/p/8135460.html
 Nginx解决前端跨域： https://www.cnblogs.com/lovesong/p/10269793.html  
 webpack所有东西： https://zhuanlan.zhihu.com/p/99959392  
 setState异步还是同步原因： https://www.jianshu.com/p/ce39a08b585e  
+如果 http 响应头中 ETag 值改变了，是否意味着文件内容一定已经更改：  https://www.cnblogs.com/xianwang/p/12031775.html  
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
 https://juejin.im/post/5e85ec79e51d4547153d0738  
