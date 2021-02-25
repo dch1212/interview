@@ -6,6 +6,7 @@ https://github.com/Advanced-Frontend/Daily-Interview-Question
 https://github.com/qq449245884/xiaozhi  
 https://github.com/lin-xin/blog  
 https://github.com/yisainan/web-interview  
+https://github.com/brickspert/blog  
 this指向、局部变量、变量提升、宏任务微任务    https://segmentfault.com/a/1190000016615517?utm_source=tag-newest  
 Request Headers 请求头和Response Headers 响应头    https://www.jianshu.com/p/15e1e9aa84c3  
 js垃圾回收机制   https://www.cnblogs.com/sunhuahuaa/p/7655587.html   https://www.jianshu.com/p/b9e41717fdf3  
@@ -104,6 +105,7 @@ webpack所有东西： https://zhuanlan.zhihu.com/p/99959392
 setState异步还是同步原因： https://www.jianshu.com/p/ce39a08b585e  
 如果 http 响应头中 ETag 值改变了，是否意味着文件内容一定已经更改： https://www.cnblogs.com/xianwang/p/12031775.html  
 react源码：  https://react.jokcy.me/  
+nginx: https://blog.csdn.net/weixin_42167759/article/details/85049546  
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
 https://juejin.im/post/5e85ec79e51d4547153d0738  
