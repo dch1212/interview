@@ -1,5 +1,5 @@
 # interview
-# 你面试用到这个页面，能给我点个star我都谢谢你
+# 又开始更新了
 高级前端进阶博文  
 https://muyiy.vip/blog/  
 https://github.com/Advanced-Frontend/Daily-Interview-Question   
@@ -106,6 +106,7 @@ setState异步还是同步原因： https://www.jianshu.com/p/ce39a08b585e
 如果 http 响应头中 ETag 值改变了，是否意味着文件内容一定已经更改： https://www.cnblogs.com/xianwang/p/12031775.html  
 react源码：  https://react.jokcy.me/  
 nginx: https://blog.csdn.net/weixin_42167759/article/details/85049546  
+node解决高并发： https://www.jianshu.com/p/c1f3bcdceb47  
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
 https://juejin.im/post/5e85ec79e51d4547153d0738  
