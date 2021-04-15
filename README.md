@@ -110,6 +110,9 @@ react源码：  https://react.jokcy.me/
 nginx: https://blog.csdn.net/weixin_42167759/article/details/85049546  
 node解决高并发： https://www.jianshu.com/p/c1f3bcdceb47  
 js基础： https://juejin.cn/post/6844903976081555470#heading-1  
+redux源码： https://segmentfault.com/a/1190000016460366  
+博客： https://blog.csdn.net/qiwoo_weekly  
+
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
 https://juejin.im/post/5e85ec79e51d4547153d0738  
