@@ -112,6 +112,7 @@ node解决高并发： https://www.jianshu.com/p/c1f3bcdceb47
 js基础： https://juejin.cn/post/6844903976081555470#heading-1  
 redux源码： https://segmentfault.com/a/1190000016460366  
 博客： https://blog.csdn.net/qiwoo_weekly  
+redux-saga： https://segmentfault.com/a/1190000037525337  
 
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
