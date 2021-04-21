@@ -93,7 +93,7 @@ node面试题 https://www.cnblogs.com/theblogs/p/10692806.html
 webpack构建过程  https://www.jianshu.com/p/5ded519fc1e7  
 fetch的实现原理解析 https://blog.csdn.net/mapbar_front/article/details/79775185  
 flex: 1详解 https://blog.csdn.net/u012260238/article/details/86656175  
-React setState 整理总结  https://segmentfault.com/a/1190000015463599#item-2  
+React setState 整理总结（包括setState源码）  https://segmentfault.com/a/1190000015463599#item-2  
 实现一个JSONP  https://www.jianshu.com/p/9bee959e3bac  
 Fiber https://zhuanlan.zhihu.com/p/26027085  
 封装sort  https://www.cnblogs.com/qdxbls/p/11139382.html  
