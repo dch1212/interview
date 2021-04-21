@@ -113,6 +113,14 @@ js基础： https://juejin.cn/post/6844903976081555470#heading-1
 redux源码： https://segmentfault.com/a/1190000016460366  
 博客： https://blog.csdn.net/qiwoo_weekly  
 redux-saga： https://segmentfault.com/a/1190000037525337  
+webpack优化：https://www.jianshu.com/p/1e389c3f9571  
+手写webpack plugin： https://zhuanlan.zhihu.com/p/28245984  
+进程线程渲染等： https://blog.csdn.net/qq_39669807/article/details/89388014  
+react setState发生什么事： https://blog.csdn.net/Fuohua/article/details/80117075  
+从0实现react： https://blog.csdn.net/qiwoo_weekly/article/details/105697246  
+redux源码： https://segmentfault.com/a/1190000016460366  
+手写loader示例： https://zhuanlan.zhihu.com/p/102729238  
+redux中间件： https://www.jianshu.com/p/ae7b5a2f78ae  
 
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
