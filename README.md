@@ -121,6 +121,7 @@ react setState发生什么事： https://blog.csdn.net/Fuohua/article/details/80
 redux源码： https://segmentfault.com/a/1190000016460366  
 手写loader示例： https://zhuanlan.zhihu.com/p/102729238  
 redux中间件： https://www.jianshu.com/p/ae7b5a2f78ae  
+https加密原理： https://blog.csdn.net/qq_38984677/article/details/85621784  
 
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
