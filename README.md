@@ -124,6 +124,7 @@ redux中间件： https://www.jianshu.com/p/ae7b5a2f78ae
 https加密原理： https://blog.csdn.net/qq_38984677/article/details/85621784  
 大厂面试题：  https://www.kancloud.cn/freya001/interview/1235945  
 理解babel的基本原理和使用方法：  https://www.cnblogs.com/jyybeam/p/13375179.html  
+eventBus: https://blog.csdn.net/wade3po/article/details/105843002  
 
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
 https://juejin.im/post/5e818e4de51d4546fb276d97#heading-1  
