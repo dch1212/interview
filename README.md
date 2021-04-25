@@ -10,6 +10,7 @@ https://github.com/brickspert/blog
 https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd  
 https://mountain-buzhou.github.io/Interview-Book/guide/  
 this指向、局部变量、变量提升、宏任务微任务    https://segmentfault.com/a/1190000016615517?utm_source=tag-newest  
+红任务： https://www.cnblogs.com/jiangyuzhen/p/11064408.html  
 Request Headers 请求头和Response Headers 响应头    https://www.jianshu.com/p/15e1e9aa84c3  
 js垃圾回收机制   https://www.cnblogs.com/sunhuahuaa/p/7655587.html   https://www.jianshu.com/p/b9e41717fdf3  
 js instanceof 实现原理     https://www.cnblogs.com/mengfangui/p/10220906.html  
