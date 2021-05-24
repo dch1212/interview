@@ -131,6 +131,7 @@ eventBus: https://blog.csdn.net/wade3po/article/details/105843002
 Fiber异步调和机制：  https://www.cnblogs.com/roy1/p/13872969.html  
 浅谈http中的Cache-Control：  https://blog.csdn.net/u012375924/article/details/82806617
 Fiber架构的简单理解与实现：  https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/109504928
+关于 ES6 中 Promise 的面试题： https://segmentfault.com/a/1190000016848192?utm_source=tag-newest  
 
 
 面试题：https://juejin.im/post/5e84c75be51d4546f70d05af    
