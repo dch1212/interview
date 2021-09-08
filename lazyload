@@ -1,0 +1,3 @@
+懒加载 监听IntersectionObserver事件，用getClientBoundingRect会强制让页面回流
+只能用在纯展示的组件里，如果一个按钮，点击改变当前数据状态，再次请求数据时可能会导致页面数据刷新但是不重新渲染
+其他的以后再写
