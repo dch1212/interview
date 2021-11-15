@@ -136,6 +136,7 @@ Fiber架构的简单理解与实现：  https://blog.csdn.net/snsHL9db69ccu1aIKl
 webpack4和5区别： https://juejin.cn/post/6990869970385109005  
 http1/2/3:  https://zhuanlan.zhihu.com/p/102561034  
 cdn： https://zhuanlan.zhihu.com/p/28940451  https://www.cnblogs.com/losbyday/p/5843960.html
+浏览器资源加载优先级： https://juejin.cn/post/6844903545016156174  
 
 
 
