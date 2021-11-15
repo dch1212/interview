@@ -134,6 +134,7 @@ Fiber架构的简单理解与实现：  https://blog.csdn.net/snsHL9db69ccu1aIKl
 关于 ES6 中 Promise 的面试题： https://segmentfault.com/a/1190000016848192?utm_source=tag-newest  
 加签验签：  https://cloud.tencent.com/developer/article/1665989
 webpack4和5区别： https://juejin.cn/post/6990869970385109005  
+http1/2/3:  https://zhuanlan.zhihu.com/p/102561034
 
 
 
