@@ -2,4 +2,4 @@ https://tech.meituan.com/2017/06/09/webviewperf.html
 当App首次打开时，默认是并不初始化浏览器内核的；只有当创建WebView实例的时候，才会创建WebView的基础框架。
 所以与浏览器不同，App中打开WebView的第一步并不是建立连接，而是启动浏览器内核。
 
-1rn容器创建完成 2准备启动引擎 3启动引擎耗时 4引擎启动完成，开始执行业务代码 5主接口开始调用 6渲染视图
+1rn容器创建完成 2准备启动引擎 3启动引擎耗时 4引擎启动完成，开始执行业务代码 5主接口开始调用 6渲染视图 截图https://picasso-static.xiaohongshu.com/fe-platform/82fcfa0e67d3763d0b3c47caba9ae7be1e5f1675.png
