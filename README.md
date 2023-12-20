@@ -141,10 +141,13 @@ http1/2/3:  https://zhuanlan.zhihu.com/p/102561034
 cdn： https://zhuanlan.zhihu.com/p/28940451  
 https://www.cnblogs.com/losbyday/p/5843960.html  
 浏览器资源加载优先级： https://juejin.cn/post/6844903545016156174  
+
+div和background哪个快 https://blog.csdn.net/bananasssss/article/details/84991247  
 rpc: https://www.jianshu.com/p/7d6853140e13  
 浏览器渲染引擎： https://segmentfault.com/a/1190000018806562  https://cloud.tencent.com/developer/article/1495980   https://blog.fundebug.com/2019/01/03/understand-browser-rendering/  
 字节跳动最爱考的 64 道算法题（JS版） https://juejin.cn/post/6947842412102287373
 手写算法题： https://juejin.cn/post/6946022649768181774 、 https://cloud.tencent.com/developer/article/2239890
+
 
 
 
