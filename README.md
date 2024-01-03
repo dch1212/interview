@@ -141,6 +141,7 @@ http1/2/3:  https://zhuanlan.zhihu.com/p/102561034
 cdn： https://zhuanlan.zhihu.com/p/28940451  
 https://www.cnblogs.com/losbyday/p/5843960.html  
 浏览器资源加载优先级： https://juejin.cn/post/6844903545016156174  
+rrweb： https://juejin.cn/post/6844903925213036552  
 
 img和background哪个快 https://blog.csdn.net/bananasssss/article/details/84991247  
 webview热启动 https://tech.meituan.com/2017/06/09/webviewperf.html  
