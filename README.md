@@ -150,6 +150,7 @@ rpc: https://www.jianshu.com/p/7d6853140e13
 浏览器渲染引擎： https://segmentfault.com/a/1190000018806562  https://cloud.tencent.com/developer/article/1495980   https://blog.fundebug.com/2019/01/03/understand-browser-rendering/  
 字节跳动最爱考的 64 道算法题（JS版） https://juejin.cn/post/6947842412102287373
 手写算法题： https://juejin.cn/post/6946022649768181774 、 https://cloud.tencent.com/developer/article/2239890
+npm和pnpm： https://juejin.cn/post/7098260404735836191  https://blog.csdn.net/m0_57236802/article/details/134308234  
 
 
 
