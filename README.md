@@ -86,7 +86,7 @@ React.memo  https://zh-hans.reactjs.org/docs/react-api.html#reactmemo
 webpack中间件 https://www.jianshu.com/p/1a7653ced053  
 关于webpack的面试题总结  https://zhuanlan.zhihu.com/p/44438844  
 【前端面试】同学，你会手写代码吗  https://juejin.im/post/5c9edb066fb9a05e267026dc  
-react diff算法  https://www.jianshu.com/p/3ba0822018cf  
+react diff算法  https://blog.csdn.net/weixin_57909742/article/details/132269869  https://github.com/WindrunnerMax/EveryDay/blob/master/React/React%E4%B8%ADdiff%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.md  
 react ssr  https://juejin.im/post/5def0816f265da33aa6aa7fe  
 一篇文章看懂_proto_和prototype的关系及区别  https://www.jianshu.com/p/7d58f8f45557  
 React高阶组件总结  https://www.cnblogs.com/mengff/p/9657232.html  
