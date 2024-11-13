@@ -151,6 +151,7 @@ rpc: https://www.jianshu.com/p/7d6853140e13
 字节跳动最爱考的 64 道算法题（JS版） https://juejin.cn/post/6947842412102287373
 手写算法题： https://juejin.cn/post/6946022649768181774 、 https://cloud.tencent.com/developer/article/2239890
 npm和pnpm： https://juejin.cn/post/7098260404735836191  https://blog.csdn.net/m0_57236802/article/details/134308234  
+hooks闭包陷阱：https://juejin.cn/post/7230819482012237861。
 
 
 
