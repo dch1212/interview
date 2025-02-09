@@ -152,7 +152,7 @@ rpc: https://www.jianshu.com/p/7d6853140e13
 手写算法题： https://juejin.cn/post/6946022649768181774 、 https://cloud.tencent.com/developer/article/2239890
 npm和pnpm： https://juejin.cn/post/7098260404735836191  https://blog.csdn.net/m0_57236802/article/details/134308234  
 hooks闭包陷阱：https://juejin.cn/post/7230819482012237861。
-前端安全https://juejin.cn/post/6844903842635579405。
+前端安全https://juejin.cn/post/6844903842635579405。  
 Get请求没有跨域问题 https://juejin.cn/post/7259275893796225085
 
 
@@ -168,3 +168,4 @@ https://juejin.im/post/5e82fb6e6fb9a03c75753628
 https://github.com/qiu-deqing/FE-interview
 https://juejin.cn/post/6951374685489594381。
 https://vue3js.cn/interview/
+https://cchroot.github.io/interview/
